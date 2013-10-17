@@ -9,7 +9,7 @@ Til að setja ubuntu sem dual boot á vélina mína byrjaði ég á að partitio
 notaði svo Unetbootin til þess að setja iso file á usb lykil sem install file
 ræsti vélina og fór í biosinn og ræsti frá usb lyklinum
 installaði ubuntu samhliða win8 sem var til staðar á vélinn
-![Image](/http://imgur.com/u1enjER)
+[id]: https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/ubuntu.png
 
 ## 2. Uppsetning á vim && git
 
