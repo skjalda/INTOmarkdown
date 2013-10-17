@@ -8,8 +8,8 @@ Sunna Guðbjartsdóttir.
 Til að setja ubuntu sem dual boot á vélina mína byrjaði ég á að partitiona diskinn á vélinni þannig að disknum yrði skipt í win/ubuntu disk. þá náði ég í iso file fyrir 32 bit útgáfu af ubuntu 
 notaði svo Unetbootin til þess að setja iso file á usb lykil sem install file
 ræsti vélina og fór í biosinn og ræsti frá usb lyklinum
-installaði ubuntu samhliða win8 sem var til staðar á vélinn
-[id]: https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/ubuntu.png
+installaði ubuntu samhliða win8 sem var til staðar á vélinni
+[![Screen Shot](images/ScreenShot.png)](https://github.com/skjalda/INTOmarkdown)
 
 ## 2. Uppsetning á vim && git
 
